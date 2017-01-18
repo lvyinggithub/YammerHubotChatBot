@@ -14,6 +14,8 @@ available, etc!
 
 ### Running YammerHubotChatBot Locally
 
+Edit external-scripts.json & their corresponding coffee scripts @ src/  in folders at node_modules to modify reponses of bot. 
+
 You can test your hubot by running the following, however some plugins will not
 behave as expected unless the [environment variables](#configuration) they rely
 upon have been set.
