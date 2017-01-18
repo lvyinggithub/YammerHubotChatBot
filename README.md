@@ -27,11 +27,11 @@ You'll see some start up output and a prompt:
     [Sat Feb 28 2015 12:38:27 GMT+0000 (GMT)] INFO Using default redis on localhost:6379
     YammerHubotChatBot>
 
-Then you can interact with YammerHubotChatBot by typing `YammerHubotChatBot help`.
+Then you can interact with YammerHubotChatBot by typing `yammerhubotchatbot help`.
 
-    YammerHubotChatBot> YammerHubotChatBot help
-    YammerHubotChatBot animate me <query> - The same thing as `image me`, except adds [snip]
-    YammerHubotChatBot help - Displays all of the help commands that YammerHubotChatBot knows about.
+    yammerhubotchatbot> YammerHubotChatBot help
+    yammerhubotchatbot animate me <query> - The same thing as `image me`, except adds [snip]
+    yammerhubotchatbot help - Displays all of the help commands that YammerHubotChatBot knows about.
     ...
 
 ### Configuration
